@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 #comment
-'show_your_bash_pid_made_easy.sh'
+ if [[ "$process_name" == *"bash"* ]]
+ done
