@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Display a header with column names for user-oriented format
 printf "%-10s %-10s %-25s %-10s %-15s %-40s\n" "PID" "PPID" "COMMAND" "USER" "TTY" "CMDLINE"
 
