@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #Make a copy of your 6-stop_me_if_you_can script, name it 67-stop_me_if_you_can.
-while :                                            
+while ;                                            
 do                                                 
         echo "To infinity and beyond"              
         sleep 2                                    
